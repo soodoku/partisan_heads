@@ -2,6 +2,8 @@
 
 Ahler and Sood, 2017, The Journal of Politics
 
+Archived replication data: [Harvard Dataverse](https://doi.org/10.7910/DVN/CLMQ8E).
+
 Summary:
 ---------
 This folder contains data and scripts needed for replicating the results in "The Parties in our Heads: Misperceptions About Party Composition and Their Consequences" by Doug Ahler and Gaurav Sood, to be published in The Journal of Politics (doi:). For more information, please contact Doug Ahler (doug.ahler@gmail.com) or Gaurav Sood (gsood07@gmail.com).
